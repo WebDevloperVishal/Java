@@ -16,7 +16,7 @@ class Puppy extends Dog {
     }
 }
 
-public class multilevel {
+public class multilevel{
     public static void main(String[] args) {
         Puppy p = new Puppy();
         p.eat();   
